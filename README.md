@@ -37,5 +37,5 @@ This project detects **human emotions** (like happy, sad, angry, etc.) from **vo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/voice-emotion-detector.git
+git clone https://github.com/Subashathithya/voice-detector/blob/main/voice%20detector%20(1).ipynb
 cd voice-emotion-detector
