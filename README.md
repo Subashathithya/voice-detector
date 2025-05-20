@@ -4,16 +4,16 @@ This project detects **human emotions** (like happy, sad, angry, etc.) from **vo
 
 ---
 
-## 📦 Features
+##  Features
 
-- 🎤 Input voice recordings (RAVDESS dataset or microphone)
-- 🔎 Extract MFCC features using `librosa`
-- 🧠 Predict emotions using trained ML model
-- 📊 Display waveform and prediction in UI
+- Input voice recordings (RAVDESS dataset or microphone)
+-  Extract MFCC features using `librosa`
+-  Predict emotions using trained ML model
+-  Display waveform and prediction in UI
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool       | Use                               |
 |------------|------------------------------------|
@@ -25,14 +25,14 @@ This project detects **human emotions** (like happy, sad, angry, etc.) from **vo
 
 ---
 
-## 🗃️ Dataset
+## 🗃 Dataset
 
 - RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song)
 - Download: [RAVDESS on Kaggle](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Clone the Repository
 
